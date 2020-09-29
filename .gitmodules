@@ -1,3 +1,6 @@
 [submodule "hernandezCar"]
 	path = hernandezCar
 	url = https://github.com/KarlWithK/03_euler_mks.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-03.git
