@@ -34,3 +34,6 @@
 [submodule "liSun"]
 	path = liSun
 	url = https://github.com/sunnyli13/Work03.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/03_euler.git
