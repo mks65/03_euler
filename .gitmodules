@@ -4,3 +4,6 @@
 [submodule "hathawayMay"]
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-03.git
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/03_euler_vs.git
