@@ -25,3 +25,6 @@
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw3.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/03_euler.git
