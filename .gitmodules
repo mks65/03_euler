@@ -28,3 +28,6 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/03_euler.git
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work03_euler.git
