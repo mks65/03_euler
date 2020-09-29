@@ -31,3 +31,6 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work03_euler.git
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work03.git
