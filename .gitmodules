@@ -7,3 +7,6 @@
 [submodule "siuVic"]
 	path = siuVic
 	url = https://github.com/vs2961/03_euler_vs.git
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/03_euler_mks.git
