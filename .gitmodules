@@ -10,3 +10,6 @@
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/03_euler_mks.git
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/03_euler
