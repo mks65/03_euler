@@ -19,3 +19,6 @@
 [submodule "sahaAbh"]
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/03_euler.git
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/03-Eul-Up-Your-C-Engine.git
