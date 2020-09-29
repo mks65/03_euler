@@ -37,3 +37,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/03_euler.git
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/03_euler_vj.git
