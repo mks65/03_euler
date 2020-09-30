@@ -40,3 +40,6 @@
 [submodule "jiangVin"]
 	path = jiangVin
 	url = https://github.com/vjiang10/03_euler_vj.git
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/03_systems.git
