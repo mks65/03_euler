@@ -67,3 +67,6 @@
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/03_euler_mks.git
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_03_eular.git
