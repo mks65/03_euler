@@ -61,3 +61,6 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/03_work.git
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-03_euler.git
