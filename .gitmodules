@@ -46,3 +46,6 @@
 [submodule "maoMad"]
 	path = maoMad
 	url = https://github.com/madelynxmao/03_euler.git
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work03
