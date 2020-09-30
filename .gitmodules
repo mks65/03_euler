@@ -52,3 +52,6 @@
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/03_euler
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/03_euler_kevidgel.git
