@@ -43,3 +43,6 @@
 [submodule "vostrikovVla"]
 	path = vostrikovVla
 	url = https://github.com/villinoid/03_systems.git
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/03_euler.git
