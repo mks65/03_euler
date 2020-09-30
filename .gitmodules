@@ -64,6 +64,3 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-03_euler.git
-[submodule "hamzahMoh"]
-	path = 03_euler
-	url = https://github.com/ForestDweller014/03_euler
