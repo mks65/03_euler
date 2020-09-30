@@ -58,3 +58,6 @@
 [submodule "zhangDev"]
 	path = zhangDev
 	url = https://github.com/dzhang10/hw_03_euler.git
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/03_work.git
