@@ -64,3 +64,6 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-03_euler.git
+[submodule "siniscalcoFra"]
+	path = siniscalcoFra
+	url = https://github.com/NopeSiniscalco/03_euler_mks.git
