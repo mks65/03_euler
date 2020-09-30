@@ -49,3 +49,6 @@
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/Work03
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/03_euler
