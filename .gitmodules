@@ -73,3 +73,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/03_euler
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_03_euler.git
