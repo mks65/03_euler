@@ -85,3 +85,6 @@
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/03_euler_zhangAle
+[submodule "work03"]
+	path = work03
+	url = https://github.com/schan11/work03.git
