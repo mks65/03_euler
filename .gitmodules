@@ -82,3 +82,6 @@
 [submodule "chahalSub"]
 	path = chahalSub
 	url = https://github.com/SubhanChahal/cw-03.git
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/03_euler_zhangAle
