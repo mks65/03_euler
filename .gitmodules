@@ -91,3 +91,6 @@
 [submodule "chanSer"]
 	path = chanSer
 	url = https://github.com/schan11/chanSer.git
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/homework3.git
