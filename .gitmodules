@@ -88,3 +88,6 @@
 [submodule "work03"]
 	path = work03
 	url = https://github.com/schan11/work03.git
+[submodule "chanSer"]
+	path = chanSer
+	url = https://github.com/schan11/chanSer.git
