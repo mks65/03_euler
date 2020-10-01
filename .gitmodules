@@ -100,3 +100,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/03_Euler.git
+[submodule "shenkerEth"]
+	path = shenkerEth
+	url = https://github.com/ethan-shenker/03_euler_systems.git
