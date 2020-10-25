@@ -105,7 +105,7 @@
 	url = https://github.com/TahsinAhmed13/03_euler.git
 [submodule "zhouKel"]
 	path = zhouKel
-	url = https://github.com/KellyZhou223/zhouKel
+	url = https://github.com/KellyZhou223/03euler
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/03_Euler.git
