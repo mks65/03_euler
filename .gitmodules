@@ -73,9 +73,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/03_euler
-[submodule "huLuc"]
-	path = huLuc
-	url = https://github.com/lhu10/systems_03_euler.git
 [submodule "nathMic"]
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_eul.git
@@ -109,3 +106,6 @@
 [submodule "zhengYul"]
 	path = zhengYul
 	url = https://github.com/yzheng10/03_Euler.git
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_03_euler.git
